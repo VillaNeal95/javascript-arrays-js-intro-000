@@ -4,6 +4,3 @@ var chocolateBars = [
   'kitkat',
   'skittles'
 ]
-
-
-
