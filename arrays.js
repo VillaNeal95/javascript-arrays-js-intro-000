@@ -5,6 +5,4 @@ var chocolateBars = [
   'skittles'
 ]
 
-function addElementToBeginningOfArray('array, element') {
-  return [...chocolateBars, 'eminems']
-}
+
