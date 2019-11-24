@@ -4,3 +4,6 @@ var chocolateBars = [
   'kitkat',
   'skittles'
 ]
+
+var cities = ['New York, San Francisco']
+[...cities, 'Philadelphia']
